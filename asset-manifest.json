@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/learningfronted/static/css/main.29358b21.css",
-    "main.js": "/learningfronted/static/js/main.255e39a6.js",
+    "main.js": "/learningfronted/static/js/main.c7f1aa07.js",
     "static/js/787.aaf3baa5.chunk.js": "/learningfronted/static/js/787.aaf3baa5.chunk.js",
     "static/media/billGates.png": "/learningfronted/static/media/billGates.d3da2352b2eb45ec232a.png",
     "static/media/bannerPicture.png": "/learningfronted/static/media/bannerPicture.0dec38fbafd105c57f18.png",
@@ -18,11 +18,11 @@
     "static/media/slick.woff": "/learningfronted/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/learningfronted/index.html",
     "main.29358b21.css.map": "/learningfronted/static/css/main.29358b21.css.map",
-    "main.255e39a6.js.map": "/learningfronted/static/js/main.255e39a6.js.map",
+    "main.c7f1aa07.js.map": "/learningfronted/static/js/main.c7f1aa07.js.map",
     "787.aaf3baa5.chunk.js.map": "/learningfronted/static/js/787.aaf3baa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29358b21.css",
-    "static/js/main.255e39a6.js"
+    "static/js/main.c7f1aa07.js"
   ]
 }
