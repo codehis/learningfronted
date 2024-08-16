@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.coursePage{
+  width: 200%;
+  border: 2px solid red;
+  overflow: hidden;
+}
