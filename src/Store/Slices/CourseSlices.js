@@ -11,7 +11,7 @@ const initialState={
 
 export const getAllCourse = createAsyncThunk("getAllCourse", async () => {
   try {
-   const res=await fetch('/courses/getAllCourse',{
+   const res=await axiosInstance.get('/courses/getAllCourse',{
     method:"GET",
     headers:{
       "Content-Type":"application/json",
