@@ -11,23 +11,11 @@ const initialState={
 
 export const getAllCourse = createAsyncThunk("getAllCourse", async () => {
   try {
-   const res=await axiosInstance.get('/courses/getAllCourse',{
-    method:"GET",
-    headers:{
-      "Content-Type":"application/json",
-      
-      "Access-control-Allow-Origin":"*"
-   }})
+   const res=await axiosInstance.get('/courses/getAllCourse')
 
-    // toast.promise(res, {
-    //   loading: "Loading courses data...",
-    //   success: "Courses loaded successfully",
-    //   error: "Failed to get courses",
-    // });
-
-    const response = await res.json();
+    const response = await res;
    
-    return response.Courses;
+    return response.data.Courses;
     
   } catch (error) {
     toast.error(error);
