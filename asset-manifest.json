@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f10534b.css",
-    "main.js": "/static/js/main.de148b9e.js",
-    "static/js/787.aaf3baa5.chunk.js": "/static/js/787.aaf3baa5.chunk.js",
-    "static/media/billGates.png": "/static/media/billGates.d3da2352b2eb45ec232a.png",
-    "static/media/bannerPicture.png": "/static/media/bannerPicture.0dec38fbafd105c57f18.png",
-    "static/media/nelsonMandela.png": "/static/media/nelsonMandela.ca869b1cabb8e0ec0433.png",
-    "static/media/einstein.png": "/static/media/einstein.43736f22270509723565.png",
-    "static/media/apj.png": "/static/media/apj.c17a8d538c0b8cfe09dc.png",
-    "static/media/courseOne.png": "/static/media/courseOne.541159e707b1a54adb97.png",
-    "static/media/steveJobs.png": "/static/media/steveJobs.c37d37c5cfe9f581727a.png",
-    "static/media/aboutMainImage.png": "/static/media/aboutMainImage.bf93fa841eabff9a9500.png",
-    "static/media/signin-banner.svg": "/static/media/signin-banner.97ff625afecee37f18aea76ae9a81071.svg",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.3f10534b.css.map": "/static/css/main.3f10534b.css.map",
-    "main.de148b9e.js.map": "/static/js/main.de148b9e.js.map",
-    "787.aaf3baa5.chunk.js.map": "/static/js/787.aaf3baa5.chunk.js.map"
+    "main.css": "/learningfronted/static/css/main.29358b21.css",
+    "main.js": "/learningfronted/static/js/main.67554105.js",
+    "static/js/787.aaf3baa5.chunk.js": "/learningfronted/static/js/787.aaf3baa5.chunk.js",
+    "static/media/billGates.png": "/learningfronted/static/media/billGates.d3da2352b2eb45ec232a.png",
+    "static/media/bannerPicture.png": "/learningfronted/static/media/bannerPicture.0dec38fbafd105c57f18.png",
+    "static/media/nelsonMandela.png": "/learningfronted/static/media/nelsonMandela.ca869b1cabb8e0ec0433.png",
+    "static/media/einstein.png": "/learningfronted/static/media/einstein.43736f22270509723565.png",
+    "static/media/apj.png": "/learningfronted/static/media/apj.c17a8d538c0b8cfe09dc.png",
+    "static/media/courseOne.png": "/learningfronted/static/media/courseOne.541159e707b1a54adb97.png",
+    "static/media/steveJobs.png": "/learningfronted/static/media/steveJobs.c37d37c5cfe9f581727a.png",
+    "static/media/aboutMainImage.png": "/learningfronted/static/media/aboutMainImage.bf93fa841eabff9a9500.png",
+    "static/media/signin-banner.svg": "/learningfronted/static/media/signin-banner.97ff625afecee37f18aea76ae9a81071.svg",
+    "static/media/slick.svg": "/learningfronted/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/learningfronted/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/learningfronted/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/learningfronted/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/learningfronted/index.html",
+    "main.29358b21.css.map": "/learningfronted/static/css/main.29358b21.css.map",
+    "main.67554105.js.map": "/learningfronted/static/js/main.67554105.js.map",
+    "787.aaf3baa5.chunk.js.map": "/learningfronted/static/js/787.aaf3baa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f10534b.css",
-    "static/js/main.de148b9e.js"
+    "static/css/main.29358b21.css",
+    "static/js/main.67554105.js"
   ]
 }
